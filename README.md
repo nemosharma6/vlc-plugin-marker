@@ -8,12 +8,19 @@ This plugin provides you the ability to mark important sections of a video. Thes
 All plugin options are :
 
 Start   	 : Click to mark the start of the important section
+
 Stop    	 : Click to mark the end of the important section
+
 Play    	 : Click to play the selected section
+
 Reset   	 : Click to set the marked contents to NULL
+
 PlayAll 	 : Click to play all the marked sections of the video
+
 Delete  	 : Click to delete a particular marked section
+
 Add Comment  : Click to add comment for the marked section
+
 Show Comment : Click to show the comment added for the selected section
 
 Working:
