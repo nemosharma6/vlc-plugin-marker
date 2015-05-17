@@ -26,8 +26,8 @@ Make a folder to contain the .txt files. Locate the function activate in the cod
 
 Now run the following command :
 
-Mac Users : cp Downloads/VlcProject/marker.lua  /Applications/VLC.app/Contents/MacOS/share/lua/extensions/
-Linux Users : cp Downloads/VlcProject/marker.lua ~/.local/share/vlc/lua/extensions/
+Mac Users : cp [location of the code]/marker.lua  /Applications/VLC.app/Contents/MacOS/share/lua/extensions/
+Linux Users : cp [location of the code]/marker.lua ~/.local/share/vlc/lua/extensions/
 
 The above command just copies our code to the extensions sub directory of our VLC Application.
 Open VLC and enjoy the plugin.
