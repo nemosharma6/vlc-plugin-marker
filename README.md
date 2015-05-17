@@ -1,6 +1,6 @@
 # Plugin-Marker
 
-This VLC plugin,named MARKER, provides you the ability to mark important sections of a video. These sections can be viewed later without the need to search for it in the entire video.
+This VLC plugin, named MARKER , provides you the ability to mark important sections of a video. These sections can be viewed later without the need to search for it in the entire video.
 MARKER 1.0
 
 This plugin provides you the ability to mark important sections of a video. These sections can be viewed later without the need to search for it in the entire video.
@@ -27,7 +27,7 @@ Working:
 
 The Plugin works by storing the marked sections in a file(along with the comments). Now when the video is played again, the pop up box would contain the start and stop time of the marked sections. We can select from among the listed sections and perform our desired operation.
 
-IMPORTANT -> How to Use:
+How to Use:
 
 Make a folder to contain the .txt files. Locate the function activate in the code. Copy the address of the folder to the variable address as shown in the code and save it. 
 
