@@ -38,4 +38,5 @@ Mac Users : cp [location of the code]/marker.lua  /Applications/VLC.app/Contents
 Linux Users : cp [location of the code]/marker.lua ~/.local/share/vlc/lua/extensions/
 
 The above command just copies our code to the extensions sub directory of our VLC Application.
-Open VLC and enjoy the plugin.
+
+After finishing, Open VLC and enjoy the plugin.
