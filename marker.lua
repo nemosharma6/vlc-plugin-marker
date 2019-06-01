@@ -15,7 +15,7 @@ address=nil --temporary variable
 function descriptor()
 
     return {
-     title = "MARKER" 
+     title = "MARKER";
      version = "1.0"; 
      author = "Amit-Nimish";
      capabilities = {"input-listener"}
@@ -28,7 +28,7 @@ function activate()
 
     inpt = vlc.object.input()
     nam = vlc.input.item():name()
-    address="/Users/sharmanimish55/Downloads/VlcPlugTxt/".. nam ..".txt"
+    address="/Users/sharmanimish55/Downloads/VlcPlugTxt/".. nam ..".txt" -- change this according to location/os
     create_dialog(nam)
 
 end
